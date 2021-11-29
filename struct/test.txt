@@ -1,0 +1,1 @@
+struct abc{float i=12.3;}
